@@ -1,31 +1,29 @@
 
 # Data Survey Dashboard by Power BI
 
-A survey is taken from 600 people working with data in different roles such as Data Analyst, Data Artichecter, Data Engineer and etc. By making different charts and dashboard we ll reach to insight findings about their salary, job satisfaction, favourite programming language and a lots more intersting things.
+As part of a data survey dashboard created using Power BI, 600 individuals working in various data-related roles like Data Analyst, Data Architect, and Data Engineer were surveyed. The dashboard presents various charts and insights into their salaries, job satisfaction, preferred programming languages, and other interesting data points.
 
-✔️ Initially, cleaning data and creating Average columns
+The following steps were taken to create the dashboard:
 
-✔️ Subsequently, applying arithmetic operaton in PowerBI
+✔️ The data was cleaned and average columns were created.
 
-✔️ Creating dashboard and guage visualization
+✔️ Arithmetic operations were applied in Power BI.
 
-✔️ Then, farmatting tables and adding difficulty
+✔️ The dashboard was created, and visualizations were added.
 
-
-
-![excel](https://github.com/Sophie-ranj/DataAnalyst_Portfolio_Excel/assets/21998543/8df76a66-900d-4b0c-aa18-c90e08f98505)
-
-
+✔️ Tables were formatted, and difficulty levels were incorporated.
 
 ## Key findings:
 
-:red_circle:  The most favourite programming language for professional working in data industry is Python
+:red_circle: Python is the most favoured programming language among data industry professionals.
 
-:red_circle:  Data Scientist get the highest salary then Data Engineer and data artichecter respectively
+:red_circle: Data Scientists earn the highest salaries followed by Data Engineers and Data Architects.
 
-:red_circle:  Happiness with work/life balance  is 5.74 from 10
+:red_circle: Work-life balance happiness rating was 5.74 out of 10.
 
-:red_circle:  Happiness with salary is 4.27% from 10
+:red_circle: The happiness rating for salary was 4.27 out of 10.
+
+
 
 
 
