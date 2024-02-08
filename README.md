@@ -13,6 +13,8 @@ The following steps were taken to create the dashboard:
 
 ✔️ Tables were formatted, and difficulty levels were incorporated.
 
+![PowerBI](https://github.com/Sophie-ranj/DataAnalyst_portfolio_PowerBI/assets/21998543/d5633a4d-325e-46ca-b430-7ce96d5575f6)
+
 ## Key findings:
 
 :red_circle: Python is the most favoured programming language among data industry professionals.
