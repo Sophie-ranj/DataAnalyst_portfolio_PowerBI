@@ -1,7 +1,7 @@
 
 # Data Survey Dashboard by Power BI
 
-As part of a data survey dashboard created using Power BI, 600 individuals working in various data-related roles like Data Analyst, Data Architect, and Data Engineer were surveyed. The dashboard presents various charts and insights into their salaries, job satisfaction, preferred programming languages, and other interesting data points.
+As part of a data survey dashboard created using Power BI, 631 individuals working in various data-related roles like Data Analyst, Data Architect, and Data Engineer were surveyed. The dashboard presents various charts and insights into their salaries, job satisfaction, preferred programming languages, and other interesting data points.
 
 The following steps were taken to create the dashboard:
 
